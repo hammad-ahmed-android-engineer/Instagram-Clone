@@ -1,0 +1,124 @@
+<resources>
+    <string name="app_name">Instagram Clone</string>
+
+    <!-- Navigation Labels & Accessibility -->
+    <string name="nav_home">Home</string>
+    <string name="nav_search">Search</string>
+    <string name="nav_create">Create</string>
+    <string name="nav_reels">Reels</string>
+    <string name="nav_profile">Profile</string>
+
+    <!-- Auth / Login -->
+    <string name="login_hint_username">Phone number, username, or email</string>
+    <string name="login_hint_password">Password</string>
+    <string name="login_forgot_password">Forgot password?</string>
+    <string name="login_btn_login">Log in</string>
+    <string name="login_facebook">Log in with Facebook</string>
+    <string name="login_or_divider">OR</string>
+    <string name="login_no_account">Don\'t have an account?</string>
+    <string name="login_sign_up">Sign up</string>
+    <string name="login_meta_footer">Instagram from Meta</string>
+
+    <!-- Feed / Stories / TopBar -->
+    <string name="title_instagram">Instagram</string>
+    <string name="story_your_story">Your story</string>
+    <string name="post_likes_count">%1$s likes</string>
+    <string name="post_more_caption">… more</string>
+    <string name="post_view_comments">View all %1$d comments</string>
+    <string name="comments_title">Comments</string>
+    <string name="comments_hint_add">Add a comment…</string>
+    <string name="comments_btn_post">Post</string>
+    <string name="comment_reply">Reply</string>
+    <string name="suggested_for_you">Suggested for you</string>
+    <string name="see_all">See all</string>
+    <string name="cd_dismiss_suggestion">Dismiss suggestion</string>
+
+    <!-- Profile -->
+    <string name="profile_stat_posts">Posts</string>
+    <string name="profile_stat_followers">Followers</string>
+    <string name="profile_stat_following">Following</string>
+    <string name="profile_btn_edit">Edit profile</string>
+    <string name="profile_btn_share">Share profile</string>
+    <string name="profile_highlight_new">New</string>
+    <string name="profile_link_url">🔗 github.com/instagramclone</string>
+    <string name="profile_followed_by">Followed by </string>
+    <string name="profile_and_others">and 17 others</string>
+
+    <!-- Reels -->
+    <string name="reels_title">Reels</string>
+    <string name="reels_follow">Follow</string>
+    <string name="reels_following">Following</string>
+    <string name="reels_original_audio">%1$s • Original Audio</string>
+
+    <!-- Explore -->
+    <string name="search_placeholder">Search</string>
+    <string name="search_with_meta_ai">Search with Meta AI</string>
+    <string name="cd_meta_ai">Meta AI</string>
+    <string name="cd_filter_tune">Filter topics</string>
+
+    <!-- Notifications -->
+    <string name="notifications_title">Notifications</string>
+    <string name="notifications_this_week">This week</string>
+
+    <!-- Messaging / Direct -->
+    <string name="dm_messages">Messages</string>
+    <string name="dm_requests">Requests (1)</string>
+    <string name="dm_share_thought">Share a thought…</string>
+    <string name="dm_your_note">Your note</string>
+
+    <!-- Create Post -->
+    <string name="create_post_title">New post</string>
+    <string name="create_post_next">Next</string>
+    <string name="create_post_recents">Recents</string>
+    <string name="create_post_select_multiple">SELECT MULTIPLE</string>
+
+    <!-- Content Descriptions / Accessibility -->
+    <string name="cd_instagram">Instagram</string>
+    <string name="cd_instagram_logo">Instagram Logo</string>
+    <string name="cd_back">Back</string>
+    <string name="cd_notifications">Notifications</string>
+    <string name="cd_direct_messages">Direct Messages</string>
+    <string name="cd_feed_switcher">Feed Switcher</string>
+    <string name="cd_account_switcher">Account Switcher</string>
+    <string name="cd_private_account">Private Account</string>
+    <string name="cd_create">Create</string>
+    <string name="cd_menu">Menu</string>
+    <string name="cd_options">Options</string>
+    <string name="cd_like">Like</string>
+    <string name="cd_comment">Comment</string>
+    <string name="cd_share">Share</string>
+    <string name="cd_save">Save</string>
+    <string name="cd_comments">Comments</string>
+    <string name="cd_camera">Camera</string>
+    <string name="cd_reels_menu">Reels menu</string>
+    <string name="cd_reel_media">Reel media</string>
+    <string name="cd_reel_author">Reel Author</string>
+    <string name="cd_audio">Audio</string>
+    <string name="cd_audio_track">Audio track</string>
+    <string name="cd_verified">Verified</string>
+    <string name="cd_search_icon">Search Icon</string>
+    <string name="cd_clear_search">Clear search</string>
+    <string name="cd_reel">Reel</string>
+    <string name="cd_user_avatar">User Avatar</string>
+    <string name="cd_profile_avatar">Profile avatar</string>
+    <string name="cd_story_avatar">Story avatar</string>
+    <string name="cd_add_to_story">Add to story</string>
+    <string name="cd_new_highlight">New Highlight</string>
+    <string name="cd_like_explosion">Like explosion</string>
+    <string name="cd_toggle_password_visibility">Toggle password visibility</string>
+    <string name="cd_grid_posts">Grid posts</string>
+    <string name="cd_reels">Reels</string>
+    <string name="cd_tagged">Tagged</string>
+    <string name="cd_discover">Discover</string>
+    <string name="cd_cancel">Cancel</string>
+    <string name="cd_selected_media">Selected media</string>
+    <string name="cd_select_album">Select album</string>
+    <string name="cd_new_message">New Message</string>
+    <string name="cd_post_thumbnail">Post thumbnail</string>
+    <string name="cd_threads">Threads</string>
+    <string name="cd_tune">Tune</string>
+    <string name="profile_your_dashboard">Your dashboard</string>
+    <string name="profile_dashboard_views">11 views in the last 30 days.</string>
+    <string name="follow">Follow</string>
+    <string name="following">Following</string>
+</resources>
