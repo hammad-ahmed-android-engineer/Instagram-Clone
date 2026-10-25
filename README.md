@@ -68,7 +68,7 @@ com.example.instagramclone/
 │   ├── model/            # Data models (User, Post, Story, Notification, Comment)
 │   └── repository/       # Repository interfaces & mock implementations
 ├── di/                   # Hilt Dependency Injection modules
-└── feature/              # Feature UI screens & composables
+└── feature/              # Feature UI sections & composables
     ├── auth/             # Login & SignUp UI sections
     ├── explore/          # Search bar & grid feed
     ├── feed/             # Main home feed & story row
@@ -92,9 +92,10 @@ com.example.instagramclone/
 - **Compile SDK / Target SDK**: `37`
 
 ### Building the App
-1. Clone the repository:
+1. Clone the repository using the official GitHub link:
    ```bash
-   git clone https://github.com/YourUsername/InstagramClone.git
+   git clone https://github.com/hammad-ahmed-android-engineer/Instagram-Clone.git
+   cd Instagram-Clone
    ```
 2. Open the project in **Android Studio**.
 3. Allow Gradle to sync dependencies.
@@ -103,6 +104,8 @@ com.example.instagramclone/
 
 ---
 
-## 📄 License & Disclaimer
 
-This project is created solely for **educational, learning, and portfolio demonstration purposes**. All design rights, trademarks, and brand assets belong to Meta Platforms, Inc. / Instagram.
+### ⚠️ Disclaimer
+This project is created solely for **educational, learning, and portfolio demonstration purposes**. It is not affiliated with, endorsed by, or connected to Meta Platforms, Inc. or Instagram. All design rights, trademarks, and brand assets belong to Meta Platforms, Inc. / Instagram.
+
+---
